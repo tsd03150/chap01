@@ -1,5 +1,5 @@
+// 실습 1-1
 // 세 개의 정수를 입력 받아서 MAX값 찾는 프로그램
-
 
 import java.util.Scanner;
 
